@@ -1,0 +1,1 @@
+.\sqlite3.exe test.db '.read CreateTables.sql'
